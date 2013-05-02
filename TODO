@@ -1,0 +1,13 @@
+XIM 1.0
+Add templates for buddylist.
+Add authorize to add users.
+Add approval system.
+Add block system.
+Add complaint system.
+Add AJAX hooks.
+Add validation.
+Add authentication.
+Need to tie in online_users update.
+Add file transfer system hooks.
+Add secure communications method.
+Add jabber/xml hooks.

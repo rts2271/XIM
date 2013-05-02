@@ -1,0 +1,11 @@
+XIM 1.0
+Added buddy approval
+Changed buddy add process to allow for 2 way additions meaning
+	if someone add's you they get added yo you as well.
+Moved functions towards XAPI compliance
+Added main template
+ 
+
+2.4
+Got Buddyfriends working on Xoops 2.3
+Switched some of the French terms to English
